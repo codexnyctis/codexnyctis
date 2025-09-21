@@ -29,11 +29,6 @@
 ---
 
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=codexnyctis&hide_border=true&background=fff7f0&ring=81D4FA&fire=BA68C8&currStreakNum=311D6B&sideNums=311D6B&currStreakLabel=81C784&sideLabels=311D6B&dates=6b7280"
-    alt="Streak stats" width="840" />
-</p>
 
 <p align="center">
   <img
