@@ -23,7 +23,7 @@
 
 <p> Building hands-on projects in Scrimba’s Full Stack Path.</p>  
 
-<p> Experimenting with Three.js for interactive 3D experiences.</p>  
+
 
 
 ---
