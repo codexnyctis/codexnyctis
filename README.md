@@ -5,7 +5,6 @@
 </div>
 
 ---
-Here's my notion: https://www.notion.com/@structuredbynora
 
 ### ✨ What I'm drawn to
 
@@ -28,7 +27,13 @@ Here's my notion: https://www.notion.com/@structuredbynora
 
 ---
 
-
+<p align="center">
+  <a href="https://www.notion.so/profile/YourCreatorName" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-Templates-311D6B?style=for-the-badge&logo=notion&logoColor=white"
+         alt="Notion Templates">
+  </a>
+</p>
+---
 
 <p align="center">
   <img
