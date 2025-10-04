@@ -24,7 +24,7 @@
 <p> Building hands-on projects in Scrimba’s Full Stack Path.</p>  
 
 
-
+Here's my notion: https://www.notion.com/@structuredbynora
 
 ---
 
