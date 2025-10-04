@@ -28,11 +28,12 @@
 ---
 
 <p align="center">
-  <a href="https://www.notion.so/profile/YourCreatorName" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-Templates-311D6B?style=for-the-badge&logo=notion&logoColor=white"
-         alt="Notion Templates">
+  <a href="https://www.notion.com/@structuredbynora" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Notion%20Templates-311D6B?style=for-the-badge&logo=notion&logoColor=white"
+         alt="Notion Templates" />
   </a>
 </p>
+
 ---
 
 <p align="center">
