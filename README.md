@@ -27,14 +27,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.notion.com/@structuredbynora" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Notion%20Templates-311D6B?style=for-the-badge&logo=notion&logoColor=white"
-         alt="Notion Templates" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img
@@ -59,3 +51,16 @@
 
 
 ---
+---
+
+## My Notion Templates
+
+<p align="center">
+  <a href="https://www.notion.com/@structuredbynora" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20Templates-BA68C8?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Browse all my Notion templates on my creator profile.</i>
+</p>
