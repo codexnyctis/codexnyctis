@@ -5,6 +5,8 @@
 </div>
 
 ---
+Here's my notion: https://www.notion.com/@structuredbynora
+
 ### ✨ What I'm drawn to
 
 <p> <strong>Making things simple</strong> → I believe the best solutions feel natural and effortless.</p>  
@@ -23,8 +25,6 @@
 
 <p> Building hands-on projects in Scrimba’s Full Stack Path.</p>  
 
-
-Here's my notion: https://www.notion.com/@structuredbynora
 
 ---
 
