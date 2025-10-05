@@ -4,6 +4,17 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:81D4FA,50:BA68C8,100:81C784&text=Hello%20traveller,%20I%20am%20Nora!&fontSize=40&fontColor=E7D9FF&animation=fadeIn&stroke=311D6B&textBg=false" />
 </div>
 
+<p align="center">
+  <a href="https://medium.com/@norasnotebook" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20my%20stories-311D6B?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.notion.com/@structuredbynora" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20my%20Notion%20templates-BA68C8?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</p>
+
+
 ---
 
 ### ✨ What I'm drawn to
@@ -51,16 +62,4 @@
 
 
 ---
----
 
-## My Notion Templates
-
-<p align="center">
-  <a href="https://www.notion.com/@structuredbynora" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20Templates-BA68C8?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Browse all my Notion templates on my creator profile.</i>
-</p>
