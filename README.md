@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://medium.com/@norasnotebook" target="_blank">
-    <img src="https://img.shields.io/badge/Writing%20Journal-81D4FA?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium%20-81D4FA?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.notion.com/@structuredbynora" target="_blank">
-    <img src="https://img.shields.io/badge/Notion%20Garden-BA68C8?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion%20-BA68C8?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
 
