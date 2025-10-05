@@ -8,7 +8,7 @@
   <a href="https://medium.com/@norasnotebook" target="_blank">
     <img src="https://img.shields.io/badge/Read%20my%20blog-311D6B?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  &nbsp;
+  
   <a href="https://www.notion.com/@structuredbynora" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20my%20Notion%20templates-BA68C8?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
