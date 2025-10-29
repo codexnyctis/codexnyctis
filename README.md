@@ -38,17 +38,6 @@
 
 ---
 
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codexnyctis&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&bg_color=fff7f0&color=311D6B&line=81D4FA&point=BA68C8&area_color=E7D9FF"
-    alt="Activity graph" />
-</p>
-
-
-
----
-
 ##  Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-FFF7F0?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
